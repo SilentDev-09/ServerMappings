@@ -1,0 +1,29 @@
+{
+    "id": "livingpvp",
+    "name": "LivingPVP",
+    "website": "https://www.livingpvp.me",
+    "store": "https://buy.livingpvp.me",
+    "description": "Italian Server for PVP ",
+    "addresses": [
+        "mc.livingpvp.me",
+        "node4.zampto.net"
+    ],
+    "primaryAddress": "mc.livingpvp.me",
+    "primaryColor": "#1fd3ec",
+    "secondaryColor": "#5500ff",
+    "minecraftVersions": [
+        "1.8.9+"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [ 
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/cNhPjdHeY4"
+    }
+}
