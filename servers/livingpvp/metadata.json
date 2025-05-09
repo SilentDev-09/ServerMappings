@@ -1,0 +1,37 @@
+{
+    "id": "livingpvp",
+    "name": "LivingPVP",
+    "website": "https://livingpvp.eu",
+    "store": "https://buy.livingpvp/",
+    "addresses": [
+        "play.livingpvp.eu"
+    ],
+    "primaryAddress": "play.livingpvp.eu",
+    "primaryColor": "#74d4d8",
+    "secondaryColor": "#de82fa",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "KITPVP",
+        "Lifesteal",
+        "Duels"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/cNhPjdHeY4",
+        "youtube": "@livingwithpvp",
+        "tiktok": "@livingpvp"
+    }
+}
